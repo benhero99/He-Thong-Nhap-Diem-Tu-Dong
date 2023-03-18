@@ -1,0 +1,12 @@
+len(X_train): 94123 
+len (X_valid): 16611 
+max_str_len: 11 
+num_of_characters: 148 
+num_of_timestamps: 31 
+batch_size: 128 
+epochs: 100 
+
+Average CER: 13.91%
+Average WER: 29.08%
+Correct characters predicted : 83.83%
+Correct words predicted      : 70.92%
